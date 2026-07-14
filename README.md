@@ -2,7 +2,7 @@
 
 <br/>
 
-# 🚑 E M E R G E N C Y   R E S P O N S E   T R I A G E   A S S I S T A N T
+# 🚑 EMERGENCY   RESPONSE   TRIAGE   ASSISTANT
 
 <br/>
 
