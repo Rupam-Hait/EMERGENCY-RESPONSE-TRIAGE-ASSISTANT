@@ -2,6 +2,8 @@
 
 A clinical decision support system designed for real-time ER triage. Built as a secure full-stack Node.js application using a React/Vite frontend and an Express backend proxy powered by the Gemini 2.5 Flash model.
 
+🔗 **[Live Demo](https://emergency-response-triage-assistant.onrender.com)**
+
 ## Features
 
 - **Sub-500ms Latency Pipeline**: Demonstrates an optimized timeline path compared to traditional sequential vector search (RAG) setups.
