@@ -1,12 +1,22 @@
 <div align="center">
 
+<br/>
+
 # 🚑 E M E R G E N C Y   R E S P O N S E   T R I A G E   A S S I S T A N T
+
+<br/>
 
 ### *A clinical decision support system for real-time ER triage — powered by Gemini 2.5 Flash*
 
+<br/>
+
 `TypeScript` · `Node.js v18+` · `MIT License`
 
+<br/>
+
 **[Live Demo](https://emergency-response-triage-assistant.onrender.com)** · **[Features](#-features)** · **[Getting Started](#-getting-started)** · **[Deployment](#-deployment)**
+
+<br/>
 
 </div>
 
